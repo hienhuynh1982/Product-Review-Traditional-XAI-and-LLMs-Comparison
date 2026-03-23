@@ -1,2 +1,8 @@
-# Product-Review-Traditional-XAI-and-LLMs-Comparison
-This repo is for my thesis at LJMU
+ANALYSE CUSTOMER SENTIMENT WITH TRADITIONAL XAI AND LLM-BASED EXPLAINABILITY MODELS IN PRODUCT REVIEW
+
+Author: HUYNH HUU HIEN
+
+Version: Final Thesis Report
+
+DECEMBER 2025
+
